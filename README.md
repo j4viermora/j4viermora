@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Javier 👨🏽‍💻💻
 ```js
   const j4viermora = {
-      pronouns: "he" | "him",
       code:[ JavaScript, TypeScript, HTML, CSS ],
       tools: [Redux, MaterilUI, ReactJS, Nextjs, Nodejs]
   }
