@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Javier 👨🏽‍💻💻
 ```js
   const j4viermora = {
-      code:[ JavaScript, TypeScript, HTML, CSS ],
-      tools: [Redux, MaterilUI, ReactJS, Nextjs, Nodejs]
+      code:[ "JavaScript", "TypeScript", "HTML", "CSS" ],
+      tools: ["Redux", "MaterilUI", "ReactJS", "Nextjs", "Nodejs"]
   }
 ```
 
