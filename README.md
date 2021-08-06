@@ -7,5 +7,5 @@
 ```
 
 You can find me 🗺️:
--[Instragram](https://instagram.com/hobbylaer)
+-[Instragram](https://instagram.com/hobbylayer)
 -[Twitter](https://twitter.com/j4viermora)
