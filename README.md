@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+```js
+  const j4viermora = {
+      pronouns: "he" | "him",
+      code:[ JavaScript, TypeScript, HTML, CSS ],
+      tools: [Redux, MaterilUI, ReactJS, Nextjs, Nodejs]
+  }
+```
+
 <!--
 **j4viermora/j4viermora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
