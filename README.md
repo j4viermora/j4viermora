@@ -1,11 +1,11 @@
-### Hi there 👋 I am Javier 👨🏽‍💻💻
+## Hi there 👋 I am Javier 👨🏽‍💻💻
 ```js
   const j4viermora = {
       code:[ "JavaScript", "TypeScript", "HTML", "CSS" ],
-      tools: ["Redux", "MaterilUI", "ReactJS", "Nextjs", "Nodejs"]
+      tools: ["Redux", "MateriallUI", "ReactJS", "Nextjs", "Nodejs"]
   }
 ```
 
-You can find me 🗺️:
+### You can find me 🗺️:
 -[Instragram](https://instagram.com/hobbylayer)
 -[Twitter](https://twitter.com/j4viermora)
