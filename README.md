@@ -1,4 +1,7 @@
-## Hi there 👋 I am Javier 👨🏽‍💻💻
+## Hi there 👋 I am Javier 👨🏽‍💻💻 
+
+I am just fronted dev
+
 ```js
   const j4viermora = {
       code:[ "JavaScript", "TypeScript", "HTML", "CSS" ],
