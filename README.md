@@ -9,6 +9,8 @@ I am just fronted dev
   }
 ```
 
+Lover web technoligies and coffe
+
 ### You can find me 🗺️:
 -[Instragram](https://instagram.com/hobbylayer)
 -[Twitter](https://twitter.com/j4viermora)
