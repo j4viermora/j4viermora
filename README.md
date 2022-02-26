@@ -4,8 +4,8 @@ I am just fronted dev
 
 ```js
   const j4viermora = {
-      code:[ "JavaScript", "TypeScript", "HTML", "CSS" ],
-      tools: ["Redux", "MateriallUI", "ReactJS", "Nextjs", "Nodejs"]
+      code:[ "JavaScript", "TypeScript", "HTML", "CSS", "Learning Python"],
+      tools: ["Redux", "MateriallUI", "ReactJS","VueJS", "Nextjs", "Nodejs"]
   }
 ```
 
