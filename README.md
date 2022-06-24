@@ -14,5 +14,5 @@ Lover web technoligies and coffe
 
 ### You can find me 🗺️:
 -[My blog](https://j4viermora.hobbylayer.com/blog)
--[Instragram](https://instagram.com/hobbylayer)
+-[Instragram](https://instagram.com/j4viermora)
 -[Twitter](https://twitter.com/j4viermora)
