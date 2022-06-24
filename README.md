@@ -1,6 +1,7 @@
 ## Hi there 👋 I am Javier 👨🏽‍💻💻 
 
 I am just fronted dev
+Frontend developer at [Alegra]:(https://alegra.com)
 
 ```js
   const j4viermora = {
