@@ -18,3 +18,6 @@ Lover web technoligies and coffe
 -[My blog](https://j4viermora.hobbylayer.com/blog)
 -[Instragram](https://instagram.com/j4viermora)
 -[Twitter](https://twitter.com/j4viermora)
+
+
+[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=j4viermora)](https://github.com/anuraghazra/github-readme-stats)
