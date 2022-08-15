@@ -20,4 +20,4 @@ Lover web technoligies and coffe
 -[Twitter](https://twitter.com/j4viermora)
 
 
-[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=j4viermora&count_private=true&theme=nord)]
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=j4viermora&count_private=true&theme=nord&show_icons=true)
