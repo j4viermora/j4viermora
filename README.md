@@ -7,8 +7,11 @@ Frontend developer at [Alegra](https://alegra.com)
 ```js
   const j4viermora = {
       code:[ "JavaScript", "TypeScript", "HTML", "CSS"],
-      tools: ["ReactJS", "VueJS", "Nextjs", "Express", "NestJs", "Redux" ],
-      learning: ["Python", "Svelte"]
+      tools: {
+        "frontend": ["React", "Vues", "Nextjs"],
+        "backend: ["Express", "Nestjs", "Django"]
+      },
+      learning: ["AWS", "Flutter"]
   }
 ```
 
