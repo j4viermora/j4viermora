@@ -2,7 +2,7 @@
 ## Hi there 👋 I am Javier 👨🏽‍💻💻 
 
 I am just fronted dev
-Frontend developer at [Alegra](https://alegra.com)
+Frontend developer at [hackU](https://hacku.com)
 
 ```js
   const j4viermora = {
