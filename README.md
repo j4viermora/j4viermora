@@ -1,14 +1,14 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=j4viermora.j4viermora&left_color=green&right_color=red)
 ## Hi there 👋 I am Javier 👨🏽‍💻💻 
 
-I am just fronted dev
-Frontend developer at [hackU](https://hacku.com)
+I am just a Frontend developer at [hackU](https://hacku.com)
+❤️ love to build beautiful and scalable software
 
 ```js
   const j4viermora = {
       code:[ "JavaScript", "TypeScript", "HTML", "CSS"],
       tools: {
-        "frontend": ["React", "Vues", "Nextjs"],
+        "frontend": ["React", "Next.js", "Vue.js"],
         "backend: ["Express", "Nestjs", "Django"]
       },
       learning: ["AWS", "Flutter"]
