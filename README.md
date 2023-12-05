@@ -11,7 +11,8 @@ I am just a Frontend developer at [hackU](https://hacku.com)
         "frontend": ["React", "Next.js", "Vue.js"],
         "backend: ["Express", "Nestjs", "Django"]
       },
-      learning: ["AWS", "Flutter"]
+      learning: ["AWS", "Flutter"],
+      likes: ["coffe","beach"]
   }
 ```
 
