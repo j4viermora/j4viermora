@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=j4viermora.j4viermora&left_color=green&right_color=red)
 ## Hi there 👋 I am Javier 👨🏽‍💻💻 
 
 I am just a Frontend developer at [hackU](https://hacku.com)
