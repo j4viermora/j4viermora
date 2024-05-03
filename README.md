@@ -5,7 +5,7 @@ I am just a Frontend developer at [hackU](https://hacku.com)
 
 ```js
   const j4viermora = {
-      code:[ "JavaScript", "TypeScript", "HTML", "CSS"],
+      code:[ "JavaScript", "TypeScript", "Python", "HTML", "CSS"],
       tools: {
         "frontend": ["React", "Next.js", "Vue.js"],
         "backend: ["Express", "Nestjs", "Django"]
