@@ -10,7 +10,7 @@ I am just a Frontend developer at [hackU](https://hacku.com)
         "frontend": ["React", "Next.js", "Vue.js"],
         "backend: ["Express", "Nestjs", "Django"]
       },
-      learning: ["AWS", "Flutter"],
+      learning: ["AWS", "RoR"],
       likes: ["coffe","beach"]
   }
 ```
@@ -18,9 +18,9 @@ I am just a Frontend developer at [hackU](https://hacku.com)
 Lover web technoligies and coffe
 
 ### You can find me 🗺️:
--[My blog](https://j4viermora.hobbylayer.com/blog)
--[Instragram](https://instagram.com/j4viermora)
 -[Twitter](https://twitter.com/j4viermora)
+-[Instragram](https://instagram.com/j4viermora)
 -[Linkedin](https://www.linkedin.com/in/j4viermora)
+-[My blog](https://j4viermora.hobbylayer.com/blog)
 
 ![Javier's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j4viermora&theme=nord&layout=compact&hide=HTML)
