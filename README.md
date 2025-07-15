@@ -13,7 +13,7 @@ Side project: [Dentatools](https://dentatools.co)
         "backend: ["Express", "Nestjs", "Django"]
       },
       learning: ["AWS", "RoR"],
-      likes: ["coffe","beach"]
+      likes: ["coffe","beach","cats"]
   }
 ```
 
