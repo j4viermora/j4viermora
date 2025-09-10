@@ -6,10 +6,10 @@
       code:[ "JavaScript", "TypeScript", "Python", "HTML", "CSS"],
       tools: {
         "frontend": ["React", "Next.js", "Vue.js"],
-        "backend: ["Express", "Nestjs", "Django"]
+        "backend: ["Django", "Nestjs", "RoR"]
       },
-      learning: ["AWS", "RoR"],
-      likes: ["coffe","beach","cats"]
+      learning: ["AWS"],
+      likes: ["coffee","beach","cats"]
   }
 ```
 
