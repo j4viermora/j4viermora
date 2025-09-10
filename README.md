@@ -3,7 +3,7 @@
 
 ```js
   const j4viermora = {
-      code:[ "JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+      code:[ "JavaScript", "TypeScript", "Python", "Ruby"],
       tools: {
         "frontend": ["React", "Next.js", "Vue.js"],
         "backend: ["Django", "Nestjs", "RoR"]
