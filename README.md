@@ -1,6 +1,4 @@
-## Hi there 👋 I am Javier Web artisan 👨🏽‍💻💻  
-
-and Frontend Architect at [Properix]('https://properix.com') 
+## Hi there 👋 I am Javier Web artisan 👨🏽‍💻💻  and Frontend Architect at [Properix](https://www.properix.com/) 
 
 
 ```js
