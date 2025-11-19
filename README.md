@@ -6,7 +6,7 @@
       code:[ "JavaScript", "TypeScript", "Python", "Ruby"],
       tools: {
         "frontend": ["React", "Next.js", "Vue.js"],
-        "backend: ["Django", "Nestjs", "RoR"]
+        "backend: ["Django", "Ruby on Rails", "Nestjs"]
       },
       learning: ["AWS"],
       likes: ["coffee","beach","cats"]
