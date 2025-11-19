@@ -14,10 +14,9 @@
 ```
 
 ### Currents projects
--[Twitter](https://twitter.com/j4viermora)
-[Reservio]('https://reservio.app')
-[Dentatools]('https://dentatools.co')
-[Tivo]('https://1.expressativo.com')
+[Reservio](https://reservio.app)
+[Dentatools](https://dentatools.co)
+[Tivo](https://1.expressativo.com)
 
 Lover web technoligies and coffe
 
