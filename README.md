@@ -13,6 +13,11 @@
   }
 ```
 
+### Currents projects
+- [Reservio]('https://reservio.app')
+- [Dentatools]('https://dentatools.co')
+- [Tivo]('https://1.expressativo.com')
+
 Lover web technoligies and coffe
 
 ### You can find me 🗺️:
