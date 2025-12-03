@@ -13,7 +13,7 @@
   }
 ```
 
-### Currents projects
+### Currents side projects
 - [Reservio](https://reservio.app)
 - [Dentatools](https://dentatools.co)
 - [Tivo](https://1.expressativo.com)
