@@ -14,8 +14,8 @@
 ```
 
 ### Currents side projects
-- [Reservio](https://reservio.app)
 - [Dentatools](https://dentatools.co)
+- [Reservio](https://reservio.app)
 - [Tivo](https://1.expressativo.com)
 
 Lover web technoligies and coffe
