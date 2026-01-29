@@ -18,7 +18,7 @@
 - [Reservio](https://reservio.app)
 - [Tivo](https://1.expressativo.com)
 
-Lover web technoligies and coffe
+Lover of web technologies and coffee
 
 ### You can find me 🗺️:
 -[Twitter](https://twitter.com/j4viermora)
