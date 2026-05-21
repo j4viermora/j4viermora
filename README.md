@@ -15,8 +15,9 @@
 
 ### Currents side projects
 - [Dentatools](https://dentatools.co)
-- [Reservio](https://reservio.app)
+- [SoyZentra](https://soyzentra.com)
 - [Tivo](https://1.expressativo.com)
+- [Lotus](https://lotuscompany.ar)
 
 Lover of web technologies and coffee
 
